@@ -1,5 +1,5 @@
-streamlit==0.71
+streamlit==0.79
 pandas==1.1.5
 joblib==1.0.1
 sklearn==0.23.2
-PIL==1.1.7
+#PIL==1.1.7
